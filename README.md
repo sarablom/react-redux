@@ -2,8 +2,8 @@
 
 Practicing React Redux with a counter component. Code from Maximillian Schwarzmullers Udemy course "React - The Complete Guide (incl Hooks, React Router, Redux)".
 
-In the main branch the code is written with npm packages redux and react-redux. 
-In the react-toolkit branch the code is written with npm package @reduxjs/toolkit.
+In the main branch the code is written with npm package @reduxjs/toolkit.
+In the react-redux branch the code is written with npm packages redux and react-redux. 
 
 ## Get the project
 
